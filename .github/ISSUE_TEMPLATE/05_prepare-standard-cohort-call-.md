@@ -7,7 +7,8 @@ assignees: stefaniebutland
 
 ---
 
-This is the same for every Cohort Call except the last. Create one issue for every Cohort Call and add the Call number to the issue title.
+This is the same for every Cohort Call except the last. Create one issue for every Cohort Call and add the Call number to the issue title. Add label corresponding to Call number
+
 
 - [ ] create Agenda (kyber); make manual edits
 - [ ] review roles and timing
